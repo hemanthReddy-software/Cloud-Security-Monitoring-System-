@@ -1003,3 +1003,4 @@ Therefore:
  └── Any number of additional assets
 ```
 Each asset is independently identified by its database-generated ID.
+ 
